@@ -1,0 +1,15 @@
+F:\Problems Solving\LeetCodeProblems\bin\Debug\net6.0\LeetCodeProblems.exe
+F:\Problems Solving\LeetCodeProblems\bin\Debug\net6.0\LeetCodeProblems.deps.json
+F:\Problems Solving\LeetCodeProblems\bin\Debug\net6.0\LeetCodeProblems.runtimeconfig.json
+F:\Problems Solving\LeetCodeProblems\bin\Debug\net6.0\LeetCodeProblems.dll
+F:\Problems Solving\LeetCodeProblems\bin\Debug\net6.0\LeetCodeProblems.pdb
+F:\Problems Solving\LeetCodeProblems\obj\Debug\net6.0\LeetCodeProblems.csproj.AssemblyReference.cache
+F:\Problems Solving\LeetCodeProblems\obj\Debug\net6.0\LeetCodeProblems.GeneratedMSBuildEditorConfig.editorconfig
+F:\Problems Solving\LeetCodeProblems\obj\Debug\net6.0\LeetCodeProblems.AssemblyInfoInputs.cache
+F:\Problems Solving\LeetCodeProblems\obj\Debug\net6.0\LeetCodeProblems.AssemblyInfo.cs
+F:\Problems Solving\LeetCodeProblems\obj\Debug\net6.0\LeetCodeProblems.csproj.CoreCompileInputs.cache
+F:\Problems Solving\LeetCodeProblems\obj\Debug\net6.0\LeetCodeProblems.dll
+F:\Problems Solving\LeetCodeProblems\obj\Debug\net6.0\refint\LeetCodeProblems.dll
+F:\Problems Solving\LeetCodeProblems\obj\Debug\net6.0\LeetCodeProblems.pdb
+F:\Problems Solving\LeetCodeProblems\obj\Debug\net6.0\LeetCodeProblems.genruntimeconfig.cache
+F:\Problems Solving\LeetCodeProblems\obj\Debug\net6.0\ref\LeetCodeProblems.dll
