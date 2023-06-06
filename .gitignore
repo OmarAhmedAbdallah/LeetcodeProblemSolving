@@ -1,0 +1,15 @@
+# Visual Studio build folders
+bin/
+obj/
+
+# Resharper folders
+_ReSharper*/
+
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+*.dll
+
+# NuGet packages
+packages/
