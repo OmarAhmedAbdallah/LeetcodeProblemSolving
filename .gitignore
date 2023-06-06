@@ -2,6 +2,10 @@
 bin/
 obj/
 
+
+# Visual Studio folders
+.vs/
+
 # Resharper folders
 _ReSharper*/
 
