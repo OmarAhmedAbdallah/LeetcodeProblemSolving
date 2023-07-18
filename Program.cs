@@ -1,6 +1,9 @@
 ﻿
+using LeetCodeProblems._1071._Greatest_Common_Divisor_of_Strings;
 using LeetCodeProblems._1342._Number_of_Steps_to_Reduce_a_Number_to_Zero;
+using LeetCodeProblems._151._Reverse_Words_in_a_String;
 using LeetCodeProblems._1672._Richest_Customer_Wealth;
+using LeetCodeProblems._1768._Merge_Strings_Alternately;
 using LeetCodeProblems._412._Fizz_Buzz;
 using LeetCodeProblems.FindMaxConsecutiveOnes;
 using LeetCodeProblems.FindNumbers;
@@ -39,7 +42,16 @@ using LeetCodeProblems.SortedSquares;
 //Console.WriteLine(numbersClass.FindNumbers(arrFindNumbers));
 
 
-var sortedSquaresClass = new SortedSquaresClass();
-var arrsortedSquares = new int[] { -4, -1, 0, 3, 10 };
-Console.WriteLine(sortedSquaresClass.SortedSquares(arrsortedSquares));
+//var sortedSquaresClass = new SortedSquaresClass();
+//var arrsortedSquares = new int[] { -4, -1, 0, 3, 10 };
+//Console.WriteLine(sortedSquaresClass.SortedSquares(arrsortedSquares));
+
+
+//Console.WriteLine(MergeStringsAlternatelyClass.MergeAlternately("abc","pqr"));
+
+
+//Console.WriteLine(GreatestCommonDivisorOfStringsClass.GcdOfStrings("ABCABC", "ABC"));
+Console.WriteLine(ReverseWordsClass.ReverseWords("  hello world  "));
+
+
 
