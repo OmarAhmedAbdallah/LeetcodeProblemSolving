@@ -4,7 +4,10 @@ using LeetCodeProblems._1342._Number_of_Steps_to_Reduce_a_Number_to_Zero;
 using LeetCodeProblems._151._Reverse_Words_in_a_String;
 using LeetCodeProblems._1672._Richest_Customer_Wealth;
 using LeetCodeProblems._1768._Merge_Strings_Alternately;
+using LeetCodeProblems._238._Product_of_Array_Except_Self;
+using LeetCodeProblems._283._Move_Zeroes;
 using LeetCodeProblems._412._Fizz_Buzz;
+using LeetCodeProblems._443._String_Compression;
 using LeetCodeProblems.FindMaxConsecutiveOnes;
 using LeetCodeProblems.FindNumbers;
 using LeetCodeProblems.SortedSquares;
@@ -51,7 +54,26 @@ using LeetCodeProblems.SortedSquares;
 
 
 //Console.WriteLine(GreatestCommonDivisorOfStringsClass.GcdOfStrings("ABCABC", "ABC"));
-Console.WriteLine(ReverseWordsClass.ReverseWords("  hello world  "));
+//Console.WriteLine(ReverseWordsClass.ReverseWords("  hello world  "));
 
 
 
+//var ProductExceptSelfArr = new int[] { 1, 2, 3, 4 };
+//Console.WriteLine(ProductExceptSelfClass.ProductExceptSelf(ProductExceptSelfArr));
+
+
+
+//var compressfArr = new char[] { 'a', 'a', 'b', 'b', 'c', 'c', 'c' };
+//var compressfArr = new char[] { 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b' };
+//var compressfArr = new char[] { 'a', 'b', 'c' };
+////var compressfArr = new char[] { 'a' };
+////Console.WriteLine(CompressClass.Compress(compressfArr));
+//CompressClass.Compress(compressfArr);
+//var compressfArr1 = new char[] { 'a', 'a', 'b', 'b', 'c', 'c', 'c' };
+
+//CompressClass.Compress1(compressfArr1);
+
+var MoveZeroesArr1 = new int[] { 0, 1, 0, 3, 12 };
+//var MoveZeroesArr1 = new int[] { 1, 0, 1 };
+
+MoveZeroesClass.MoveZeroes(MoveZeroesArr1);
