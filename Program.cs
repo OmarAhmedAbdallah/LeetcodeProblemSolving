@@ -4,6 +4,9 @@ using LeetCodeProblems._1342._Number_of_Steps_to_Reduce_a_Number_to_Zero;
 using LeetCodeProblems._151._Reverse_Words_in_a_String;
 using LeetCodeProblems._1672._Richest_Customer_Wealth;
 using LeetCodeProblems._1768._Merge_Strings_Alternately;
+using LeetCodeProblems._1769._Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box;
+using LeetCodeProblems._2011._Final_Value_of_Variable_After_Performing_Operations;
+using LeetCodeProblems._2325._Decode_the_Message;
 using LeetCodeProblems._238._Product_of_Array_Except_Self;
 using LeetCodeProblems._283._Move_Zeroes;
 using LeetCodeProblems._412._Fizz_Buzz;
@@ -73,7 +76,17 @@ using LeetCodeProblems.SortedSquares;
 
 //CompressClass.Compress1(compressfArr1);
 
-var MoveZeroesArr1 = new int[] { 0, 1, 0, 3, 12 };
-//var MoveZeroesArr1 = new int[] { 1, 0, 1 };
+//var MoveZeroesArr1 = new int[] { 0, 1, 0, 3, 12 };
+////var MoveZeroesArr1 = new int[] { 1, 0, 1 };
 
-MoveZeroesClass.MoveZeroes(MoveZeroesArr1);
+//MoveZeroesClass.MoveZeroes(MoveZeroesArr1);
+
+//var FinalValueAfterOperationsArr = new string[] { "--X", "X++", "X++" };
+
+//FinalValueAfterOperationsClass.FinalValueAfterOperations(FinalValueAfterOperationsArr);
+
+
+//MinOperationsClass.MinOperations("110");
+
+
+DecodeMessageClass.DecodeMessage("the quick brown fox jumps over the lazy dog", "vkbs bs t suepuv");
