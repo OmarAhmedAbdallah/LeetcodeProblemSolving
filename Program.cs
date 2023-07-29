@@ -11,6 +11,8 @@ using LeetCodeProblems._238._Product_of_Array_Except_Self;
 using LeetCodeProblems._283._Move_Zeroes;
 using LeetCodeProblems._412._Fizz_Buzz;
 using LeetCodeProblems._443._String_Compression;
+using LeetCodeProblems._49._Group_Anagrams;
+using LeetCodeProblems._6._Zigzag_Conversion;
 using LeetCodeProblems.FindMaxConsecutiveOnes;
 using LeetCodeProblems.FindNumbers;
 using LeetCodeProblems.SortedSquares;
@@ -89,4 +91,15 @@ using LeetCodeProblems.SortedSquares;
 //MinOperationsClass.MinOperations("110");
 
 
-DecodeMessageClass.DecodeMessage("the quick brown fox jumps over the lazy dog", "vkbs bs t suepuv");
+//DecodeMessageClass.DecodeMessage("the quick brown fox jumps over the lazy dog", "vkbs bs t suepuv");
+
+
+//var GroupAnagramsClassArr = new string[] { "eat", "tea", "tan", "ate", "nat", "bat" };
+
+//GroupAnagramsClass.GroupAnagrams(GroupAnagramsClassArr);
+
+
+
+var ConvertClassStr = "AB";
+
+ConvertClass.Convert(ConvertClassStr,1);
