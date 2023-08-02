@@ -6,11 +6,13 @@ using LeetCodeProblems._1672._Richest_Customer_Wealth;
 using LeetCodeProblems._1768._Merge_Strings_Alternately;
 using LeetCodeProblems._1769._Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box;
 using LeetCodeProblems._189._Rotate_Array;
+using LeetCodeProblems._1967._Number_of_Strings_That_Appear_as_Substrings_in_Word;
 using LeetCodeProblems._2011._Final_Value_of_Variable_After_Performing_Operations;
 using LeetCodeProblems._2325._Decode_the_Message;
 using LeetCodeProblems._238._Product_of_Array_Except_Self;
 using LeetCodeProblems._283._Move_Zeroes;
 using LeetCodeProblems._412._Fizz_Buzz;
+using LeetCodeProblems._43._Multiply_Strings;
 using LeetCodeProblems._443._String_Compression;
 using LeetCodeProblems._49._Group_Anagrams;
 using LeetCodeProblems._6._Zigzag_Conversion;
@@ -113,7 +115,14 @@ using LeetCodeProblems.SortedSquares;
 
 
 
-var RotateClassArr = new int[] { 1, 2, 3, 4, 5, 6, 7 };
+//var RotateClassArr = new int[] { 1, 2, 3, 4, 5, 6, 7 };
 
-RotateClass.Rotate(RotateClassArr,3);
+//RotateClass.Rotate(RotateClassArr,3);
 
+//var NumOfStringsArr = new string[] { "a", "abc", "bc", "d" };
+
+
+//NumOfStringsClass.NumOfStrings(NumOfStringsArr, "abc");
+
+
+MultiplyClass.Multiply("123", "2");
