@@ -32,6 +32,7 @@ namespace LeetCodeProblems._3._Longest_Substring_Without_Repeating_Characters
             }
 
 
+
             return Math.Max(maxLength, letters.Count);
         }
     }
