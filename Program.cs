@@ -1,8 +1,11 @@
 ﻿
 using LeetCodeProblems._1071._Greatest_Common_Divisor_of_Strings;
+using LeetCodeProblems._1302._Deepest_Leaves_Sum;
 using LeetCodeProblems._1342._Number_of_Steps_to_Reduce_a_Number_to_Zero;
+using LeetCodeProblems._139._Word_Break;
 using LeetCodeProblems._151._Reverse_Words_in_a_String;
 using LeetCodeProblems._1672._Richest_Customer_Wealth;
+using LeetCodeProblems._17._Letter_Combinations_of_a_Phone_Number;
 using LeetCodeProblems._1768._Merge_Strings_Alternately;
 using LeetCodeProblems._1769._Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box;
 using LeetCodeProblems._189._Rotate_Array;
@@ -10,13 +13,17 @@ using LeetCodeProblems._1967._Number_of_Strings_That_Appear_as_Substrings_in_Wor
 using LeetCodeProblems._2011._Final_Value_of_Variable_After_Performing_Operations;
 using LeetCodeProblems._2325._Decode_the_Message;
 using LeetCodeProblems._238._Product_of_Array_Except_Self;
+using LeetCodeProblems._2610._Convert_an_Array_Into_a_2D_Array_With_Conditions;
 using LeetCodeProblems._283._Move_Zeroes;
+using LeetCodeProblems._3._Longest_Substring_Without_Repeating_Characters;
 using LeetCodeProblems._412._Fizz_Buzz;
 using LeetCodeProblems._43._Multiply_Strings;
 using LeetCodeProblems._443._String_Compression;
 using LeetCodeProblems._49._Group_Anagrams;
 using LeetCodeProblems._6._Zigzag_Conversion;
+using LeetCodeProblems._7._Reverse_Integer;
 using LeetCodeProblems._80._Remove_Duplicates_from_Sorted_Array_II;
+using LeetCodeProblems._832._Flipping_an_Image;
 using LeetCodeProblems.FindMaxConsecutiveOnes;
 using LeetCodeProblems.FindNumbers;
 using LeetCodeProblems.SortedSquares;
@@ -125,4 +132,39 @@ using LeetCodeProblems.SortedSquares;
 //NumOfStringsClass.NumOfStrings(NumOfStringsArr, "abc");
 
 
-MultiplyClass.Multiply("123", "2");
+//MultiplyClass.Multiply("123", "2");
+
+
+//LetterCombinationsClass.LetterCombinations("23");
+
+
+//DeepestLeavesSumClass deepestLeavesSumClass = new();
+//TreeNode treeNode = new();
+//var node = treeNode.initialTree();
+//deepestLeavesSumClass.DeepestLeavesSum(node);
+
+
+//ReverseClass.Reverse(1534236469);
+
+
+//var WordBreakClassArr = new List<string>(){ "car", "ca", "rs" };
+
+//WordBreakClass.WordBreak("cars", WordBreakClassArr);
+
+
+//int[][] myArray = new int[][]
+//{
+//     new int[]{ 1,1,0 },
+//     new int[]{ 1,0,1 },
+//     new int[]{ 0,0,0 }
+//};
+
+//FlipAndInvertImageClass.FlipAndInvertImage(myArray);
+
+
+//var FindMatrixClassArr = new int[] { 8, 8, 8, 8, 2, 4, 4, 2, 4 };
+
+//FindMatrixClass.FindMatrix(FindMatrixClassArr);
+
+
+LengthOfLongestSubstringClass.LengthOfLongestSubstring("ggububgvfk");
