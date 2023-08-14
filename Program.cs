@@ -2,6 +2,7 @@
 using LeetCodeProblems._1071._Greatest_Common_Divisor_of_Strings;
 using LeetCodeProblems._1302._Deepest_Leaves_Sum;
 using LeetCodeProblems._1342._Number_of_Steps_to_Reduce_a_Number_to_Zero;
+using LeetCodeProblems._1365._How_Many_Numbers_Are_Smaller_Than_the_Current_Number;
 using LeetCodeProblems._139._Word_Break;
 using LeetCodeProblems._151._Reverse_Words_in_a_String;
 using LeetCodeProblems._1672._Richest_Customer_Wealth;
@@ -17,6 +18,7 @@ using LeetCodeProblems._2610._Convert_an_Array_Into_a_2D_Array_With_Conditions;
 using LeetCodeProblems._2810._Faulty_Keyboard;
 using LeetCodeProblems._283._Move_Zeroes;
 using LeetCodeProblems._3._Longest_Substring_Without_Repeating_Characters;
+using LeetCodeProblems._347._Top_K_Frequent_Elements;
 using LeetCodeProblems._412._Fizz_Buzz;
 using LeetCodeProblems._43._Multiply_Strings;
 using LeetCodeProblems._443._String_Compression;
@@ -170,4 +172,15 @@ using LeetCodeProblems.SortedSquares;
 
 //LengthOfLongestSubstringClass.LengthOfLongestSubstring("ggububgvfk");
 
-FinalStringClass.FinalString("string");
+//FinalStringClass.FinalString("string");
+
+
+
+//var SmallerNumbersThanCurrentArr = new int[] {3,2,1 };
+
+//SmallerNumbersThanCurrentClass.SmallerNumbersThanCurrent(SmallerNumbersThanCurrentArr);
+
+
+var TopKFrequentClassArr = new int[] { 5, 3, 1, 1, 1, 3, 73, 1 };
+
+TopKFrequentClass.TopKFrequent(TopKFrequentClassArr, 2);
